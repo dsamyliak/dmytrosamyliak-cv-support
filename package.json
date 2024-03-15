@@ -1,22 +1,22 @@
 {
-  "name": "dmytrosamyliak-cv",
+  "name": "dmytrosamyliak-cv-support",
   "version": "1.1.0",
-  "description": "My first web CV",
+  "description": "CV support position",
   "main": "index.js",
-  "homepage": "https://dsamyliak.github.io/dmytrosamyliak-cv/",
+  "homepage": "https://dsamyliak.github.io/dmytrosamyliak-cv-support/",
   "scripts": {
     "dev": "parcel src/index.html",
-    "build": "parcel build src/*.html --public-url /dmytrosamyliak-cv/"
+    "build": "parcel build src/*.html --public-url /dmytrosamyliak-cv-support/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dsamyliak/dmytrosamyliak-cv.git"
+    "url": "git+https://github.com/dsamyliak/dmytrosamyliak-cv-support.git"
   },
   "keywords": [],
   "author": "Dmytro Samyliak <dsamyliak@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dsamyliak/dmytrosamyliak-cv/issues"
+    "url": "https://github.com/dsamyliak/dmytrosamyliak-cv-support/issues"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.5",
@@ -24,5 +24,6 @@
     "parcel-plugin-nuke-dist": "^1.0.1",
     "posthtml-include": "^1.6.2",
     "sass": "^1.32.8"
-  }
+  },
+  "dependencies": {}
 }

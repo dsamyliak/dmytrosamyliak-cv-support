@@ -1,2 +1,3 @@
 # dmytrosamyliakcv
-It is my first CV to enter IT
+
+It's my CV to support position
